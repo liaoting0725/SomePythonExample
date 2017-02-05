@@ -1,2 +1,12 @@
-# PythonEveryDayStudy
-pythonTestEveryDay
+# SomePythonExample
+SomePythonExample
+## AliyunEcsModifyEipAddressBandwidth
+利用原始api，对阿里云Ecs修改弹性ip带宽，需要填入服务器的AccessKeyID，AccessKeySecret ，弹性公网IP实例ID
+## getHttpRequestCode
+利用curl获取网络连接请求的状态码
+## basicPythonPractise
+简单的python练习demo
+## sshRemoteWithParamiko  sshRemoteWithPexpect sshRemoteWithPxssh
+分别利用sshRemoteWithParamiko，sshRemoteWithPexpect，sshRemoteWithPxssh三个模块进行ssh操作，推荐使用sshRemoteWithPxssh，可以在python2.6使用(我司服务器python环境为2.6)
+## xcodeAutoArchive
+利用脚本对xcode项目自动编译打包ipa
